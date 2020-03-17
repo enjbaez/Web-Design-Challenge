@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<section>
+<p>This report compares the weather conditions below:</p>
+<ol>
+  <li>Cloudiness</li>
+  <li>Wind</li>
+  <li>Humidity</li>
+  <li>Bonus..</li>
+</ol>
+</section>
+
+</html>
